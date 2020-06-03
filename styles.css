@@ -67,9 +67,10 @@ header a {
     text-decoration: none;
     color: black;
 }
-#hero {
-    background-image: linear-gradient(rgba(255,255,255,0.65)), url('https://wallpapercave.com/wp/wc1808411.jpg');
- 
+div {
+  background-image: url("https://wallpapercave.com/wp/wc1808411.jpg");
+  background-position: 20px 10px;
+  background-repeat: no-repeat;
 }
 
 #about {
