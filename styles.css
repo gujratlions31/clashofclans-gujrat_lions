@@ -43,8 +43,8 @@ section {
 }
 #hero{
   border: 1px solid black;
-  background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallsdesk.com%2Fclash-of-clans%2F&psig=AOvVaw0CYTqOx9c0rExr5xGeRKgG&ust=1591242776103000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODG_7jf5OkCFQAAAAAdAAAAABAL.JPG);
-  background-size: 100px 80px;
+  background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallsdesk.com%2Fclash-of-clans%2F&psig=AOvVaw0CYTqOx9c0rExr5xGeRKgG&ust=1591242776103000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODG_7jf5OkCFQAAAAAdAAAAABAL.JPG');
+  background-size: 720px 480px;
   background-repeat: no-repeat;
   padding: 15px;
 }
