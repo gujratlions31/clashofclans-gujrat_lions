@@ -41,7 +41,13 @@ section {
     background-repeat: no-repeat; /* Add this line */
     background-attachment: fixed; /* Add this line */
 }
-
+#example1 {
+  border: 1px solid black;
+  background: url(img_flwr.gif);
+  background-size: 100px 80px;
+  background-repeat: no-repeat;
+  padding: 15px;
+}
 #hero .profile-img {
     width: 300px;
     border-radius: 50%
