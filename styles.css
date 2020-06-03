@@ -41,13 +41,7 @@ section {
     background-repeat: no-repeat; /* Add this line */
     background-attachment: fixed; /* Add this line */
 }
-#hero{
-  border: 1px solid black;
-  background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallsdesk.com%2Fclash-of-clans%2F&psig=AOvVaw0CYTqOx9c0rExr5xGeRKgG&ust=1591242776103000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODG_7jf5OkCFQAAAAAdAAAAABAL.JPG');
-  background-size: 720px 480px;
-  background-repeat: no-repeat;
-  padding: 15px;
-}
+
 #hero .profile-img {
     width: 300px;
     border-radius: 50%
@@ -72,6 +66,10 @@ section h3 {
 header a {
     text-decoration: none;
     color: black;
+}
+#hero {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://statics.sportskeeda.com/wp-content/uploads/2015/03/10386746_983938531630470_6622837490873195662_n-1427769479.png');
+ 
 }
 
 #about {
