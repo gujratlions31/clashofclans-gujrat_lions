@@ -67,7 +67,7 @@ header a {
     text-decoration: none;
     color: black;
 }
-div {
+#hero{
   background-image: url("https://wallpapercave.com/wp/wc1808411.jpg");
   background-position: 20px 10px;
   background-repeat: no-repeat;
