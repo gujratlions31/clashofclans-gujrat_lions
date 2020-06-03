@@ -43,7 +43,7 @@ section {
 }
 #example1 {
   border: 1px solid black;
-  background: url(https://images.app.goo.gl/f7Ho6VdNrgqS9jGL7.gif);
+  background: url();
   background-size: 100px 80px;
   background-repeat: no-repeat;
   padding: 15px;
@@ -74,7 +74,7 @@ header a {
     color: black;
 }
 #hero {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://images.app.goo.gl/f7Ho6VdNrgqS9jGL7.gif');
 }
 
 #about {
