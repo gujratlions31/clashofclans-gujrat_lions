@@ -73,9 +73,7 @@ header a {
     text-decoration: none;
     color: black;
 }
-#hero {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fgemwalls.blogspot.com%2F2019%2F08%2Fdownload-clash-of-clans-pc-wallpaper-hd.html&psig=AOvVaw3a1FS5HENbI1rGg7C-NkRC&ust=1591242354346000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiP1e3d5OkCFQAAAAAdAAAAABAD.jpg');
-        }
+
 #about {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/beach.jpg');
 }
